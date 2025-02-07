@@ -80,11 +80,8 @@ Version 1.1.1
 
 ## About authors
 
-- [Pankil Soni](https://github.com/pankil-soni) - AI Tab Grouper creator
+- [SreenadhYetukuri](https://github.com/SreenadhYetukuri) - AI Tab Grouper creator
 
-## 🙌 Acknowledgments
-
-Special thanks to [Google Generative AI](https://ai.google/) for providing the AI-powered LLM service.
 
 ---
 
